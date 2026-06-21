@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrace AI",
+  "description": "An interactive sustainability tracker and AI Sustainability Coach which computes carbon footprints, logs eco-conscious habits, analyzes receipt/food photos, and gamifies environmental optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
